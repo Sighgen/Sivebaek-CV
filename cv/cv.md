@@ -7,11 +7,13 @@
 [LinkedIn](https://www.linkedin.com/in/simon-sivebaek-68218034b/)
 
 ---
+
 ## Profile
 
 I am a EK student and aspiring software developer with practical knowledge of DevOps, Java (Spring Boot), and Python. I build scalable applications and have experience with collaborative Scrum-based projects. I have a background in Linux systems, REST API development, and legacy systems. I am looking for positions where I can use my technical knowledge for backend development and DevOps-related projects.
 
 ---
+
 ## EXPERIENCE
 
 ### Sundskolen, Sundby — Student Teacher
@@ -44,13 +46,15 @@ August 2020 – June 2022
 **Copenhagen Business Academy (KEA)**  
 August 2024 – June 2027 (Expected)
 
-*Core Courses*
+_Core Courses_
+
 - Programming
 - Technology
 - System Development
 - IT & Business Insights
 
-*Elective Courses*
+_Elective Courses_
+
 - Python
 - DevOps
 - IT Operations
@@ -60,6 +64,7 @@ August 2024 – June 2027 (Expected)
 ## SKILLS
 
 **Languages & Technologies**
+
 - Java (Spring Boot)
 - Python
 - Docker
@@ -69,9 +74,10 @@ August 2024 – June 2027 (Expected)
 - Networking
 
 **Development Methods**
+
 - Agile/Scrum
 - Collaborative software development
-- Version control (git)
+- Version control (Git)
 
 ---
 
