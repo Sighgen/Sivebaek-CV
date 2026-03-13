@@ -2,7 +2,7 @@
 
 <img src="./assets/mig.png" alt="Picture of me"><br>
 2300 Copenhagen  
-simonsivebaek@protonmail.com  
+<simonsivebaek@protonmail.com>  
 [GitHub](https://github.com/Sighgen)<br>
 [LinkedIn](https://www.linkedin.com/in/simon-sivebaek-68218034b/)
 
