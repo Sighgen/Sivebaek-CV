@@ -1,0 +1,15 @@
+name: Task
+title: "[Task]: "
+labels: ["task"]
+
+body:
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      placeholder: |
+        What needs to be done?
+        Thoughts about the task?
+    validations:
+      required: true
