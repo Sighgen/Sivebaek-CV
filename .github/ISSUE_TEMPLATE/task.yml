@@ -1,4 +1,5 @@
 name: Task
+Description: What needs to be done?
 title: "[Task]: "
 labels: ["task"]
 
