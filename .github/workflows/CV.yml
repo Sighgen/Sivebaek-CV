@@ -1,0 +1,44 @@
+name: CV
+
+on:
+  pull_request:
+    branches:
+      - "**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  packages: read
+
+  issues: write
+  pull-requests: write
+
+  statuses: write
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+  lint:
+    name: Super Linter
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Run Super Linter
+        uses: super-linter/super-linter@v8.5.0
+        env:
+          DEFAULT_BRANCH: master
+          VALIDATE_ALL_CODEBASE: false #only checks the files that were changed in the PR, should be set to true if you want to check the entire codebase
+
+          #disable all linters except for go, very easy to enable/disable linters by changing the value to true/false
+
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
