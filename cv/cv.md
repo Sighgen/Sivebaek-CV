@@ -1,10 +1,9 @@
 # Simon Sivebæk
-
-Ørestads Boulevard 49B  
+ 
 2300 København  
-(+45) 29 66 48 47  
-simonsivebaek@protonmail.com  
-https://github.com/Sighgen
+[Mail](simonsivebaek@protonmail.com)  
+[Github](https://github.com/Sighgen)
+[Linkedin](https://www.linkedin.com/in/simon-sivebaek-68218034b/)
 
 ---
 
