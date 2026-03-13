@@ -2,9 +2,15 @@
 
 <img src="./assets/mig.png" alt="Picture of me"><br>
 2300 Copenhagen  
-[Mail](simonsivebaek@protonmail.com)  
+<simonsivebaek@protonmail.com>  
 [GitHub](https://github.com/Sighgen)<br>
 [LinkedIn](https://www.linkedin.com/in/simon-sivebaek-68218034b/)
+
+---
+
+## Profile
+
+I am a EK student and aspiring software developer with practical knowledge of DevOps, Java (Spring Boot), and Python. I build scalable applications and have experience with collaborative Scrum-based projects. I have a background in Linux systems, REST API development, and legacy systems. I am looking for positions where I can use my technical knowledge for backend development and DevOps-related projects.
 
 ---
 
@@ -40,12 +46,38 @@ August 2020 – June 2022
 **Copenhagen Business Academy (KEA)**  
 August 2024 – June 2027 (Expected)
 
+_Core Courses_
+
+- Programming
+- Technology
+- System Development
+- IT & Business Insights
+
+_Elective Courses_
+
+- Python
+- DevOps
+- IT Operations
+
 ---
 
 ## SKILLS
 
-I worked as a substitute teacher at Sundskolen where I was responsible for teaching and supporting children and young people across different age groups.  
-The experience strengthened my patience, my ability to maintain overview in challenging situations, and my helpful and cooperative approach when working with others.
+**Languages & Technologies**
+
+- Java (Spring Boot)
+- Python
+- Docker
+- Linux
+- REST APIs
+- GitHub Actions
+- Networking
+
+**Development Methods**
+
+- Agile/Scrum
+- Collaborative software development
+- Version control (Git)
 
 ---
 
@@ -53,12 +85,3 @@ The experience strengthened my patience, my ability to maintain overview in chal
 
 - Danish: Native language
 - English: Fluent
-
----
-
-## PROGRAMMING LANGUAGES
-
-- Java
-- SQL
-- HTML
-- CSS
