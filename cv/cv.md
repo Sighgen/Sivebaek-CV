@@ -1,10 +1,10 @@
 # Simon Sivebæk
 
-<img src="./assets/mig.png"><br>
+<img src="./assets/mig.png" alt="Picture of me"><br>
 2300 Copenhagen  
 [Mail](simonsivebaek@protonmail.com)  
-[Github](https://github.com/Sighgen)<br>
-[Linkedin](https://www.linkedin.com/in/simon-sivebaek-68218034b/)
+[GitHub](https://github.com/Sighgen)<br>
+[LinkedIn](https://www.linkedin.com/in/simon-sivebaek-68218034b/)
 
 ---
 
