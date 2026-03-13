@@ -44,8 +44,7 @@ August 2024 – June 2027 (Expected)
 
 ## SKILLS
 
-I worked as a substitute teacher at Sundskolen where I was responsible for teaching and supporting children and young people across different age groups.  
-The experience strengthened my patience, my ability to maintain overview in challenging situations, and my helpful and cooperative approach when working with others.
+Hands-on experience with Java (Spring Boot), Python, Docker, Linux environments, REST API development, networking, and GitHub Actions, gained through collaborative Scrum-based software development projects.
 
 ---
 
@@ -53,12 +52,3 @@ The experience strengthened my patience, my ability to maintain overview in chal
 
 - Danish: Native language
 - English: Fluent
-
----
-
-## PROGRAMMING LANGUAGES
-
-- Java
-- SQL
-- HTML
-- CSS
