@@ -1,7 +1,9 @@
 # Pull Request
 
 ## Description of PR
-* <Description here>
+
+- <Description here>
 
 ## Special Attention
-* <If anything requires special attention, write here>
+
+- <If anything requires special attention, write here>
