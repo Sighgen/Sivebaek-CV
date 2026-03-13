@@ -1,8 +1,9 @@
 # Simon Sivebæk
  
-2300 København  
+<img src="./assets/mig.png"><br>
+2300 Copenhagen  
 [Mail](simonsivebaek@protonmail.com)  
-[Github](https://github.com/Sighgen)
+[Github](https://github.com/Sighgen)<br>
 [Linkedin](https://www.linkedin.com/in/simon-sivebaek-68218034b/)
 
 ---
