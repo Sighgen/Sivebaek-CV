@@ -3,7 +3,6 @@ title: "[Task]: "
 labels: ["task"]
 
 body:
-
   - type: textarea
     id: description
     attributes:
