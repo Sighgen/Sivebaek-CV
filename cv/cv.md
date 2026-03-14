@@ -73,6 +73,7 @@ _Elective Courses_
 - REST APIs
 - GitHub Actions
 - Networking
+- Microsoft Azure
 
 **Development Methods**
 
