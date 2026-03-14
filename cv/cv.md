@@ -11,7 +11,10 @@
 
 ## Profile
 
-I am a Erhvervsakademi København student and aspiring software developer with practical knowledge of DevOps, Java (Spring Boot), and Python. I build scalable applications and have experience with collaborative Scrum-based projects. I have a background in Linux systems, REST API development, and legacy systems. I am looking for positions where I can use my technical knowledge for backend development and DevOps-related projects.
+I am a Erhvervsakademi København student and aspiring software developer with practical knowledge of DevOps, Java (Spring Boot), and Python.
+I build scalable applications and have experience with collaborative Scrum-based projects.
+I have a background in Linux systems, REST API development, and legacy systems.
+I am looking for positions where I can use my technical knowledge for backend development and DevOps-related projects.
 
 ---
 
