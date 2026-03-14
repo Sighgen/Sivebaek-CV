@@ -5,6 +5,7 @@
 <simonsivebaek@protonmail.com>  
 [GitHub](https://github.com/Sighgen)<br>
 [LinkedIn](https://www.linkedin.com/in/simon-sivebaek-68218034b/)
+[Regularly updated CV](https://github.com/Sighgen/Sivebaek-CV/blob/main/cv/cv.md)
 
 ---
 
