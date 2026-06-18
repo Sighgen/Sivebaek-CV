@@ -11,7 +11,7 @@
 
 ## Profile
 
-I am a Computer Science student at EK with experience in Java, Spring Boot, pytohn, SQL databases, REST APIs and DevOps practices.
+I am a Computer Science student at EK with experience in Java, Spring Boot, python, SQL databases, REST APIs and DevOps practices.
 Through projects and customer collaborations, I have developed backend systems, worked in Scrum teams and gained experience with modern software development workflows. I am seeking an internship where I can further develop my skills within backend development, cloud technologies and DevOps.
 
 ---
@@ -52,6 +52,7 @@ Java, Spring Boot, MySQL
 [Repository](https://github.com/Sighgen/FitnessTracker)
 
 ### Car Management System
+
 Java, Spring Boot, MySQL
 
 - Developed a vehicle subscription management system.
@@ -61,6 +62,7 @@ Java, Spring Boot, MySQL
 [Repository](https://github.com/askau2003/Bilabonnement)
 
 ### Customer Project (ONI Design)
+
 Java, Spring Boot, SQL, HTML/CSS, Docker, Thymeleaf
 
 - Collaborated with a real customer to solve a business problem.
@@ -99,12 +101,12 @@ August 2022 – December 2022
 
 ---
 
-
 ## SKILLS
 
 **Languages & Technologies**
 
 Backend
+
 - Java
 - Spring Boot
 - REST APIs
@@ -112,12 +114,14 @@ Backend
 - Python
 
 DevOps & Infrastructure
+
 - Docker
 - GitHub Actions
 - Linux
 - Azure
 
 Other
+
 - Networking
 - Database Design
 - Git
