@@ -83,24 +83,6 @@ Docker, GitHub Actions, Linux, Azure, Monitoring
 
 ---
 
-## EXPERIENCE
-
-### Sundskolen, Sundby — Student Teacher
-
-February 2023 – July 2023
-
-- Taught students from 0th to 9th grade, including students with special needs.
-- Developed patience, strong communication skills, and the ability to maintain overview in complex situations.
-
-### Oksbøl Kaserne, Oksbøl — Conscription / Military Service
-
-August 2022 – December 2022
-
-- Completed military service with focus on discipline and teamwork.
-- Trained to work efficiently under pressure and in demanding environments.
-
----
-
 ## SKILLS
 
 **Languages & Technologies**
@@ -131,6 +113,24 @@ Other
 - Agile/Scrum
 - Collaborative software development
 - Version control (Git)
+
+---
+
+## EXPERIENCE
+
+### Sundskolen, Sundby — Student Teacher
+
+February 2023 – July 2023
+
+- Taught students from 0th to 9th grade, including students with special needs.
+- Developed patience, strong communication skills, and the ability to maintain overview in complex situations.
+
+### Oksbøl Kaserne, Oksbøl — Conscription / Military Service
+
+August 2022 – December 2022
+
+- Completed military service with focus on discipline and teamwork.
+- Trained to work efficiently under pressure and in demanding environments.
 
 ---
 
