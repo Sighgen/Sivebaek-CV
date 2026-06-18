@@ -11,38 +11,12 @@
 
 ## Profile
 
-I am an Erhvervsakademi København student and aspiring software developer with practical knowledge of DevOps, Java (Spring Boot), and Python.
-I build scalable applications and have experience with collaborative Scrum-based projects.
-I have a background in Linux systems, REST API development, and legacy systems.
-I am looking for positions where I can use my technical knowledge for backend development and DevOps-related projects.
-
----
-
-## EXPERIENCE
-
-### Sundskolen, Sundby — Student Teacher
-
-February 2023 – July 2023
-
-- Taught students from 0th to 9th grade, including students with special needs.
-- Developed patience, strong communication skills, and the ability to maintain overview in complex situations.
-
-### Oksbøl Kaserne, Oksbøl — Conscription / Military Service
-
-August 2022 – December 2022
-
-- Completed military service with focus on discipline and teamwork.
-- Trained to work efficiently under pressure and in demanding environments.
+I am a Computer Science student at EK with experience in Java, Spring Boot, pytohn, SQL databases, REST APIs and DevOps practices.
+Through projects and customer collaborations, I have developed backend systems, worked in Scrum teams and gained experience with modern software development workflows. I am seeking an internship where I can further develop my skills within backend development, cloud technologies and DevOps.
 
 ---
 
 ## EDUCATION
-
-**Møllebakkeskolen, Horreby**  
-August 2009 – June 2019
-
-**Realskolen, Nykøbing F.**  
-August 2019 – June 2020
 
 **Nykøbing Katedralskole — HF**  
 August 2020 – June 2022
@@ -65,18 +39,88 @@ _Elective Courses_
 
 ---
 
+## Projects
+
+### Fitness Tracker
+
+Java, Spring Boot, MySQL
+
+- Developed a fitness tracking application for managing workouts and exercise data.
+- Developed and maintained the project independently.
+- Designed REST endpoints for managing workout data.
+
+[Repository](https://github.com/Sighgen/FitnessTracker)
+
+### Car Management System
+Java, Spring Boot, MySQL
+
+- Developed a vehicle subscription management system.
+- Implemented user management, contracts and database integration.
+- Worked in a Scrum team using Git and GitHub.
+
+[Repository](https://github.com/askau2003/Bilabonnement)
+
+### Customer Project (ONI Design)
+Java, Spring Boot, SQL, HTML/CSS, Docker, Thymeleaf
+
+- Collaborated with a real customer to solve a business problem.
+- Gathered requirements and developed a tailored solution.
+- Worked in an Agile team environment.
+
+[Repository](https://github.com/Skole-Projekt-gruppe/ONI-Design)
+
+### DevOps Project
+
+Docker, GitHub Actions, Linux, Azure, Monitoring
+
+- Built CI/CD pipelines.
+- Worked with containerized applications.
+- Automated deployment workflows.
+
+[Repository](https://github.com/ASCDevOps/ASC_whoknows)
+
+---
+
+## EXPERIENCE
+
+### Sundskolen, Sundby — Student Teacher
+
+February 2023 – July 2023
+
+- Taught students from 0th to 9th grade, including students with special needs.
+- Developed patience, strong communication skills, and the ability to maintain overview in complex situations.
+
+### Oksbøl Kaserne, Oksbøl — Conscription / Military Service
+
+August 2022 – December 2022
+
+- Completed military service with focus on discipline and teamwork.
+- Trained to work efficiently under pressure and in demanding environments.
+
+---
+
+
 ## SKILLS
 
 **Languages & Technologies**
 
-- Java (Spring Boot)
-- Python
-- Docker
-- Linux
+Backend
+- Java
+- Spring Boot
 - REST APIs
+- SQL
+- Python
+
+DevOps & Infrastructure
+- Docker
 - GitHub Actions
+- Linux
+- Azure
+
+Other
 - Networking
-- Microsoft Azure
+- Database Design
+- Git
 
 **Development Methods**
 
