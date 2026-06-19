@@ -5,13 +5,13 @@
 <simonsivebaek@protonmail.com>  
 [GitHub](https://github.com/Sighgen)<br>
 [LinkedIn](https://www.linkedin.com/in/simon-sivebaek-68218034b/)<br>
-[Regularly updated CV](https://github.com/Sighgen/Sivebaek-CV/blob/main/cv/cv.md)
+[Regularly Updated CV](https://github.com/Sighgen/Sivebaek-CV/blob/main/cv/cv.md)
 
 ---
 
 ## Profile
 
-I am a Computer Science student at EK with experience in Java, Spring Boot, python, SQL databases, REST APIs and DevOps practices.
+I am a Computer Science student at Erhvervsakademi København(EK) with experience in Java, Spring Boot, python, SQL databases, REST APIs and DevOps practices.
 Through projects and customer collaborations, I have developed backend systems, worked in Scrum teams and gained experience with modern software development workflows. I am seeking an internship where I can further develop my skills within backend development, cloud technologies and DevOps.
 
 ---
@@ -43,7 +43,7 @@ _Elective Courses_
 
 ### Fitness Tracker
 
-Java, Spring Boot, MySQL
+Python, Filebased System,
 
 - Developed a fitness tracking application for managing workouts and exercise data.
 - Developed and maintained the project independently.
