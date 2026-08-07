@@ -22,7 +22,7 @@ Through projects and customer collaborations, I have developed backend systems, 
 August 2020 – June 2022
 
 **Erhvervsakademi København(EK)**  
-August 2024 – June 2027 (Expected)
+August 2024 – January 2027 (Expected)
 
 _Core Courses_
 
