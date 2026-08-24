@@ -51,16 +51,6 @@ Python, Filebased System,
 
 [Repository](https://github.com/Sighgen/FitnessTracker)
 
-### Car Management System
-
-Java, Spring Boot, MySQL
-
-- Developed a vehicle subscription management system.
-- Implemented user management, contracts and database integration.
-- Worked in a Scrum team using Git and GitHub.
-
-[Repository](https://github.com/askau2003/Bilabonnement)
-
 ### Customer Project (ONI Design)
 
 Java, Spring Boot, SQL, HTML/CSS, Docker, Thymeleaf
